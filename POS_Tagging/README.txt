@@ -3,7 +3,9 @@ Example: Everything is all about Money.
 Tagged Sentence: Everything_NN is_VBZ all_DT about_IN money_NN ._.
 
 Here, we have done POS tagging via three models namely HMM, SVM and Bi-LSTM. 
-HMM has been implemented from scratch. For more details refer to pdf uploaded along with the other contents
+HMM has been implemented from scratch. For more details refer to pdf uploaded along with the other contents.
+The corpus used in the "Brown Corpus" available in nltk library.
+The tagset used is the "Universal Tag-set"
 
 All the 3 Models have been implemented on Python-3 Jupyter-Notebook .
 
